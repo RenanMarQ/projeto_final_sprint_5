@@ -1,4 +1,6 @@
-# projeto_final_sprint_5
+# projeto\_final\_sprint\_5
+
+
 
 Análise Exploratória de Dados - Veículos Usados
 Este projeto é um aplicativo web interativo desenvolvido em Python utilizando Streamlit, projetado para realizar análises exploratórias em um conjunto de dados de anúncios de veículos usados.
@@ -27,3 +29,8 @@ Execute o aplicativo com o comando:
 
 streamlit run app.py
 No navegador, clique nos botões para gerar os gráficos desejados.
+
+
+
+Link do projeto: https://projeto-final-sprint-5-1cmj.onrender.com
+
